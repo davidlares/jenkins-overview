@@ -1,5 +1,5 @@
 
-# davidJenkins
+## davidJenkins
 
 Integración demo de un proyecto "Hello World" en Java (ver 8) con Jenkins
 
@@ -44,8 +44,7 @@ https://i.ibb.co/T8P4Nvx/jenkins2.png
 https://i.ibb.co/vJNKFwS/jenkins.png
 
 ## Créditos
-- [David E Lares S](https://twitter.com/@davidlares3)
+[David E Lares S](https://davidlares.com)
 
 ## Licencia
-
-- [MIT](https://opensource.org/licenses/MIT)
+[MIT](https://opensource.org/licenses/MIT)
